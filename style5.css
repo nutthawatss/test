@@ -1,0 +1,52 @@
+body
+{
+    background-image: url('past2Meme.jpg');
+}
+.header
+{
+    text-align: center;
+    background-color: rgb(255, 0, 255);
+    margin: -8px;
+    padding: 1px;
+}
+.header a
+{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 50px;
+    color: white;
+}
+.header2
+{
+    text-align: center;
+    color: white;
+}
+.nav 
+{
+    text-align: center;
+    font-weight: bold;
+    margin: -8px;
+    padding: 10.1px;
+    background-color: rgba(175, 1, 161, 0.911);
+}
+.nav a
+{
+    text-decoration: none;
+    color: white;
+}
+.H1
+{
+    color: white;
+    text-align: center;
+}
+.H2 p
+{
+    color: white;
+    text-align: center;
+}
+.B a
+{
+    
+    width: 100px;
+    height: 50px;
+}
